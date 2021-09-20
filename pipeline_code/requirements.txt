@@ -1,0 +1,10 @@
+pandas
+pickle5
+spacy==3.0.1
+scispacy
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz # #https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.3.0/en_core_sci_lg-0.3.0.tar.gz 
+negspacy
+icecream
+tqdm
+transformers
+torch==1.8.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html
